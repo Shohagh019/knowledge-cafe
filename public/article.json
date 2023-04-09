@@ -1,0 +1,38 @@
+[
+      {
+        "id": 1,
+        "authorName": "John Doe",
+        "blogTitle": "10 Tips for Writing Clean Code",
+        "blogCoverImage": "https://plus.unsplash.com/premium_photo-1663100642422-e8ec41e77675?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSvDZqF7GjXUqup1a0ZWvhTkX-GP8yFwfvXHpjbgA&s",
+        "readTime": 5,
+        "publishDate": "Mar 14(4 Days ago)"
+      },
+      {
+        "id": 2,
+        "authorName": "Jane Smith",
+        "blogTitle": "The Benefits of Yoga for Stress Relief",
+        "blogCoverImage": "https://images.unsplash.com/photo-1585241936939-be4099591252?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjscottmarketing.com%2Fbusiness-author-headshot-examples%2F&psig=AOvVaw13ojDxWBMPbAWUIPXDaAfU&ust=1680442398295000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiFmPLliP4CFQAAAAAdAAAAABAJ",
+        "readTime": 10,
+        "publishDate": "Mar 13(5 Days ago)"
+      },
+      {
+        "id": 3,
+        "authorName": "Bob Johnson",
+        "blogTitle": "The Future of Artificial Intelligence",
+        "blogCoverImage": "https://images.unsplash.com/photo-1495020689067-958852a7765e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeLqmD0Z55PyegiQ0jgmi4XN97PAmVDpCDp3sN3mAY_EERcwkqGKi0qpEHnjhw7GW5Ic&usqp=CAU",
+        "readTime": 15,
+        "publishDate": "Mar 12(6 Days ago)"
+      },
+      {
+        "id": 4,
+        "authorName": "Alice Lee",
+        "blogTitle": "How to Cook the Perfect Steak",
+        "blogCoverImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xP9OCSwQYqY5aILp5jDTPyYoArIBwm_FDLMaBHxnadgQNHy9P3OtqrycjoctQmiPWhs&usqp=CAU",
+        "readTime": 8,
+        "publishDate": "Mar 11(7 Days ago)"
+      }
+    ]
